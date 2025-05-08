@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "dgSpecHash": "XcSA+/ApFzY=",
+  "success": true,
+  "projectFilePath": "/Users/verycreatives/Documents/OvermindTeste/WLConsulting-Challenge/WLConsultingChallenge.API/WLConsultingChallenge.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/verycreatives/.nuget/packages/bcrypt/1.0.0/bcrypt.1.0.0.nupkg.sha512",
+    "/Users/verycreatives/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/9.0.4/microsoft.aspnetcore.authentication.jwtbearer.9.0.4.nupkg.sha512",
+    "/Users/verycreatives/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/Users/verycreatives/.nuget/packages/microsoft.entityframeworkcore/9.0.4/microsoft.entityframeworkcore.9.0.4.nupkg.sha512",
+    "/Users/verycreatives/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.4/microsoft.entityframeworkcore.abstractions.9.0.4.nupkg.sha512",
+    "/Users/verycreatives/.nuget/packages/microsoft.entityframeworkcore.analyzers/9.0.4/microsoft.entityframeworkcore.analyzers.9.0.4.nupkg.sha512",
+    "/Users/verycreatives/.nuget/packages/microsoft.entityframeworkcore.relational/9.0.1/microsoft.entityframeworkcore.relational.9.0.1.nupkg.sha512",
+    "/Users/verycreatives/.nuget/packages/microsoft.extensions.caching.abstractions/9.0.4/microsoft.extensions.caching.abstractions.9.0.4.nupkg.sha512",
+    "/Users/verycreatives/.nuget/packages/microsoft.extensions.caching.memory/9.0.4/microsoft.extensions.caching.memory.9.0.4.nupkg.sha512",
+    "/Users/verycreatives/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.1/microsoft.extensions.configuration.abstractions.9.0.1.nupkg.sha512",
+    "/Users/verycreatives/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.4/microsoft.extensions.dependencyinjection.9.0.4.nupkg.sha512",
+    "/Users/verycreatives/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.4/microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512",
+    "/Users/verycreatives/.nuget/packages/microsoft.extensions.logging/9.0.4/microsoft.extensions.logging.9.0.4.nupkg.sha512",
+    "/Users/verycreatives/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.4/microsoft.extensions.logging.abstractions.9.0.4.nupkg.sha512",
+    "/Users/verycreatives/.nuget/packages/microsoft.extensions.options/9.0.4/microsoft.extensions.options.9.0.4.nupkg.sha512",
+    "/Users/verycreatives/.nuget/packages/microsoft.extensions.primitives/9.0.4/microsoft.extensions.primitives.9.0.4.nupkg.sha512",
+    "/Users/verycreatives/.nuget/packages/microsoft.identitymodel.abstractions/8.0.1/microsoft.identitymodel.abstractions.8.0.1.nupkg.sha512",
+    "/Users/verycreatives/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.0.1/microsoft.identitymodel.jsonwebtokens.8.0.1.nupkg.sha512",
+    "/Users/verycreatives/.nuget/packages/microsoft.identitymodel.logging/8.0.1/microsoft.identitymodel.logging.8.0.1.nupkg.sha512",
+    "/Users/verycreatives/.nuget/packages/microsoft.identitymodel.protocols/8.0.1/microsoft.identitymodel.protocols.8.0.1.nupkg.sha512",
+    "/Users/verycreatives/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/8.0.1/microsoft.identitymodel.protocols.openidconnect.8.0.1.nupkg.sha512",
+    "/Users/verycreatives/.nuget/packages/microsoft.identitymodel.tokens/8.0.1/microsoft.identitymodel.tokens.8.0.1.nupkg.sha512",
+    "/Users/verycreatives/.nuget/packages/microsoft.openapi/1.6.23/microsoft.openapi.1.6.23.nupkg.sha512",
+    "/Users/verycreatives/.nuget/packages/npgsql/9.0.3/npgsql.9.0.3.nupkg.sha512",
+    "/Users/verycreatives/.nuget/packages/npgsql.entityframeworkcore.postgresql/9.0.3/npgsql.entityframeworkcore.postgresql.9.0.3.nupkg.sha512",
+    "/Users/verycreatives/.nuget/packages/swashbuckle.aspnetcore.swagger/8.1.1/swashbuckle.aspnetcore.swagger.8.1.1.nupkg.sha512",
+    "/Users/verycreatives/.nuget/packages/swashbuckle.aspnetcore.swaggergen/8.1.1/swashbuckle.aspnetcore.swaggergen.8.1.1.nupkg.sha512",
+    "/Users/verycreatives/.nuget/packages/system.identitymodel.tokens.jwt/8.0.1/system.identitymodel.tokens.jwt.8.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'BCrypt 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
+      "libraryId": "BCrypt",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}

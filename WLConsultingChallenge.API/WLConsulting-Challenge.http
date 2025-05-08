@@ -1,0 +1,6 @@
+@WLConsulting_Challenge_HostAddress = http://localhost:5100
+
+GET {{WLConsulting_Challenge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
