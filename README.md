@@ -35,7 +35,7 @@ A solução está organizada nos seguintes projetos:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/brunocarmena57/WL-Consulting]([https://github.com/dolthub/dolt](https://github.com/brunocarmena57/WL-Consulting))
+    git clone [https://github.com/brunocarmena57/WL-Consulting](https://github.com/brunocarmena57/WL-Consulting))
     cd WLConsultingChallenge
     ```
 
